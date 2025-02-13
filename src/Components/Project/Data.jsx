@@ -9,16 +9,16 @@ export const ProjectData=[
         demo: "https://project-movies-in-detail-mid-react-frontend.vercel.app/",
         source: "https://github.com/yashjariwala01/Project-MoviesInDetail-MID-reactFrontend"
       },
-      {
-        id:2,
-        title: "MERN Stack Social Media Platform",
-        category:'Major projects',
-        imageSrc: "projects/socialMedia.png",
-        description: "This is a project made to learn the latest languages by building an app.",
-        skills: ["MongoDB", "React" ,"Express", "Node"],
-        demo: "https://mern-social-media-delta-mu.vercel.app/",
-        source: "https://github.com/yashjariwala01/MernSocialMediaDelta"
-      },
+      // {
+      //   id:2,
+      //   title: "MERN Stack Social Media Platform",
+      //   category:'Major projects',
+      //   imageSrc: "projects/socialMedia.png",
+      //   description: "This is a project made to learn the latest languages by building an app.",
+      //   skills: ["MongoDB", "React" ,"Express", "Node"],
+      //   demo: "https://mern-social-media-delta-mu.vercel.app/",
+      //   source: "https://github.com/yashjariwala01/MernSocialMediaDelta"
+      // },
       {
         id:3,
         title: "Key-Skill Typing website ",
