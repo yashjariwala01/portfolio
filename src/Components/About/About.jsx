@@ -30,9 +30,6 @@ const About = () => {
               </p>
             </div>
           </li>
-          <div className={styles.Resume}>
-            <a href={CV} download>Download Resume <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAG5SURBVHgB7dthTcNAGMbxJwQBSDgH4IDiAAfMAaAAHBAUAAoABcMBOKgE5mD0aPZla9jYPfDuuv8veb80IYE/u+66dhIAAAAAAAAA4L8cdXPTTdvNfIuZdjMRvqVu3rVdyOW5E/QsT8zFXGmPNfLGzPOp/hQS5kBxGvnlmEmBDhUnDRybdXOvzeR4lwPHT7r50B561OqSbX/x80nDy36iQJFLfpQIakZQM4LuoEb95V/eA84rnPx7Pyh4u7Vwobri/TStgqMm1RVs06hFV1ol59AbjU9S4T62JOi5xulYBUouPYeWxks3r6pHXmVp6VhSkKFz0K3qMtXq3zBVAfahZgQ1I6gZQc0IahYdNO9l89WJ60onv0MnBYoMmtTf9UzyadR/0BEmOuhfaBQoMmi+kTaT35sCRd71zDHP1D/xkeSR/0nXChQZNMsBzjQibJvMCGpGUDOCmhHUjKBmBDUjqBlBzQhqRlAzgpoR1IygZgQ1I6gZQc3cn9ifqq4HxpJ2SK3P1K+bFxUoWfJPGqeioCWSxvcqbRVsorqCrYuZtAOS+i/C1vpqbdW/kYZ+zx4AAAAAAAAAavMFS4vuejb7h+YAAAAASUVORK5CYII=" width={30} alt="" /></a>
-          </div>
         </ul>
       </div>
       
